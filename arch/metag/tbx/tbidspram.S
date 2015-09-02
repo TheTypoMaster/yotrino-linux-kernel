@@ -13,7 +13,7 @@
 
 	.file	"tbidspram.S"
 
-/* These aren't generally useful to a user so for now, they arent publically available */
+/* These aren't generally useful to a user so for now, they arent publicly available */
 #define _TBIECH_DSPRAM_DUA_S    8
 #define _TBIECH_DSPRAM_DUA_BITS 0x7f00
 #define _TBIECH_DSPRAM_DUB_S    0

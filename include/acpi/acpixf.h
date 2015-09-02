@@ -56,7 +56,7 @@
 extern u8 acpi_gbl_permanent_mmap;
 
 /*
- * Globals that are publically available
+ * Globals that are publicly available
  */
 extern u32 acpi_current_gpe_count;
 extern struct acpi_table_fadt acpi_gbl_FADT;
